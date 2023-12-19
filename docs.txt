@@ -1,0 +1,5 @@
+CI/CD Pipeline
+    - source
+    - build
+    - test
+    - deploy
