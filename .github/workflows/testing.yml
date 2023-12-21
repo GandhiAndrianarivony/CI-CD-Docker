@@ -13,7 +13,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    step:
+    steps:
       - uses: action/checkout@v2
       - name: Set up Python 3.11
         uses: actions/setup-python@v2
